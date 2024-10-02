@@ -1,0 +1,137 @@
+body{
+    margin: 0;
+    text-align: center;
+}
+    
+div {
+    display: block;
+    unicode-bidi: isolate;
+}
+
+.top-container{
+    background-color: #e4f9f5;
+    position: relative;
+    padding-top: 100px
+}
+
+.top-img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.pro{
+    text-decoration: underline;
+}
+
+h1{
+    color: #66bfbf;;
+    text-align: center;
+    margin-top: 70px;
+    font-family: "satisfy", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 40px;
+}
+h2{
+    color: #66bfbf;
+    font-family: "Montserrat", sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+.bottom-img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 70px;
+}
+
+.Emmy-img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 80px;
+    border-radius: 50%;
+}
+p{
+    text-align: center;
+    line-height: 2;
+    
+}
+
+.intro{
+    width: 30%;
+    margin: auto;
+}
+
+hr{
+    border: dotted wheat 6px;
+    border-bottom: none;
+    margin: 100px auto;
+    width: 4%;
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.text{
+    line-height: 2;
+    margin-right: 200px;
+    width: 30%;
+}
+
+.image{
+   margin-left: 150px;
+    
+}
+
+h3{
+    color: #66bfbf;
+    font-family: "Montserrat", sans-serif;
+}
+
+.btn{
+    background-color: #11999e;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 8px;
+    font-size: 20px;
+    margin-bottom: 50px;
+}
+
+.contact-me{
+    display: block;
+    text-align: center;
+
+}
+
+.contact-message{
+    width: 40%;
+    margin: 40px auto 60px;
+}
+
+.bottom-container {
+    background-color: #66bfbf;
+    padding: 50px 0 20px;
+    margin-top: 100px;
+}
+
+a {
+    color: #11999e;
+    font-family: "Montserrat", sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+
+.copyright {
+    color: #eaf6f6;
+    font-size: 0.75rem;
+    padding: 20px 0;
+}
